@@ -15,3 +15,8 @@ go install github.com/rohit1kumar/reacher-go
 ```bash
 reacher-go <to_email>
 ```
+
+### Todo
+- [ ] Support for multiple email addresses from stdin
+- [ ] Support for reading email addresses from a csv file? Maybe
+- [ ] Web interface? API?
