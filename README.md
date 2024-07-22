@@ -7,7 +7,7 @@
 ### Installation
 
 ```bash
-go install github.com/rohit1kumar/reacher-go
+go install github.com/rohit1kumar/reacher-go@latest
 ```
 
 ### Usage
@@ -17,6 +17,7 @@ reacher-go <to_email>
 ```
 
 ### Todo
+
 - [ ] Support for multiple email addresses from stdin
 - [ ] Support for reading email addresses from a csv file? Maybe
 - [ ] Web interface? API?
