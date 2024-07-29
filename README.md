@@ -6,9 +6,13 @@
 
 ### Installation
 
+_If [Go](https://go.dev/) is install_
+
 ```bash
 go install github.com/rohit1kumar/reacher-go@latest
 ```
+
+_Otherwise, [download](https://github.com/rohit1kumar/reacher-go/releases) the binary for your OS and add it to your PATH_
 
 ### Usage
 
